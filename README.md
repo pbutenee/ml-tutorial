@@ -1,3 +1,4 @@
-# bikecity-tutorial
+# Machine Learning Tutorial
 
-[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/bartdevylder/bikecity-tutorial)
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/pbutenee/ml-tutorial)
+

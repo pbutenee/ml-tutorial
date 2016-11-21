@@ -1,3 +1,5 @@
 gradebook.db
 .nbgrader.log
 release
+.ipynb_checkpoints
+source/1/.ipynb_checkpoints

@@ -1,0 +1,10 @@
+* Use sklearn 0.18.1 or later
+
+* Use min_samples_leaf parameter instead of dept and use float for percentage of samples
+
+* Write some code that optimizes alpha for gaussian processes
+* Show confidence interval for guassian processes
+* Do forecasting cross-validation the proper way
+* Include random forest regressor in forecasting
+
+* Investigate how to deal with large datasets (possibly using Oger code for large datasets)

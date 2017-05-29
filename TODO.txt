@@ -1,4 +1,3 @@
-* Use min_samples_leaf parameter instead of dept and use float for percentage of samples
 * Show example of gaussian processes with confidence interval
 * Do forecasting cross-validation the proper way
 * Investigate how to deal with large datasets (possibly using Oger code for large datasets)

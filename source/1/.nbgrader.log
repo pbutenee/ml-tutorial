@@ -6,3 +6,7 @@
 [ListApp | ERROR] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
 [ListApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
 [ListApp | ERROR] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[UpdateApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[UpdateApp | ERROR] No notebooks given
+[UpdateApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[UpdateApp | INFO] Updating metadata for notebook: anomaly_detection.ipynb

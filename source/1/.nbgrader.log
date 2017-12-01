@@ -10,3 +10,36 @@
 [UpdateApp | ERROR] No notebooks given
 [UpdateApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
 [UpdateApp | INFO] Updating metadata for notebook: anomaly_detection.ipynb
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /Users/pbutenee/Desktop/ml-tutorial/source/1
+[NotebookApp | INFO] 0 active kernels 
+[NotebookApp | INFO] The Jupyter Notebook is running at: http://localhost:8888/?token=51551e928a17beb3865cb73e637a560801a10157d4789487
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=51551e928a17beb3865cb73e637a560801a10157d4789487
+[NotebookApp | INFO] Accepting one-time-token-authenticated connection from ::1
+[NotebookApp | INFO] Kernel started: 57299276-7305-46c4-ba36-f7a1538028c5
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 57299276-7305-46c4-ba36-f7a1538028c5
+[NotebookApp | INFO] Saving file at /recommendation_engine.ipynb
+[NotebookApp | INFO] Saving file at /recommendation_engine.ipynb
+[NotebookApp | INFO] Saving file at /recommendation_engine.ipynb
+[NotebookApp | INFO] Saving file at /recommendation_engine.ipynb
+[NotebookApp | INFO] Saving file at /recommendation_engine.ipynb
+[NotebookApp | INFO] Saving file at /recommendation_engine.ipynb
+[NotebookApp | INFO] Saving file at /recommendation_engine.ipynb
+[NotebookApp | INFO] Saving file at /recommendation_engine.ipynb
+[NotebookApp | INFO] Saving file at /recommendation_engine.ipynb
+[NotebookApp | INFO] Saving file at /recommendation_engine.ipynb
+[NotebookApp | INFO] Saving file at /recommendation_engine.ipynb
+[NotebookApp | INFO] Saving file at /recommendation_engine.ipynb
+[NotebookApp | INFO] Kernel restarted: 57299276-7305-46c4-ba36-f7a1538028c5
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 57299276-7305-46c4-ba36-f7a1538028c5
+[NotebookApp | INFO] Saving file at /recommendation_engine.ipynb
+[NotebookApp | INFO] interrupted
+[NotebookApp | CRITICAL] Shutdown confirmed
+[NotebookApp | INFO] Shutting down kernels
+[NotebookApp | INFO] Kernel shutdown: 57299276-7305-46c4-ba36-f7a1538028c5

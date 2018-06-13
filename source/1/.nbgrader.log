@@ -43,3 +43,27 @@
 [NotebookApp | CRITICAL] Shutdown confirmed
 [NotebookApp | INFO] Shutting down kernels
 [NotebookApp | INFO] Kernel shutdown: 57299276-7305-46c4-ba36-f7a1538028c5
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /Users/pbutenee/Desktop/ml-tutorial/source/1
+[NotebookApp | INFO] 0 active kernels
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8888/?token=fda8d5dbf1bcca5f0f78071933fd216bf94bb63714175bb2
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=fda8d5dbf1bcca5f0f78071933fd216bf94bb63714175bb2&token=fda8d5dbf1bcca5f0f78071933fd216bf94bb63714175bb2
+[NotebookApp | INFO] Accepting one-time-token-authenticated connection from ::1
+[NotebookApp | INFO] Kernel started: 25f1fa20-ebaf-48db-b956-06e03134d849
+[NotebookApp | INFO] 302 GET /notebooks/images/tree.png (::1) 1.04ms
+[NotebookApp | INFO] 302 GET /notebooks/images/random_forest.jpg (::1) 0.80ms
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 25f1fa20-ebaf-48db-b956-06e03134d849
+[NotebookApp | INFO] Saving file at /machine_learning.ipynb
+[NotebookApp | INFO] Saving file at /machine_learning.ipynb
+[NotebookApp | INFO] Starting buffering for 25f1fa20-ebaf-48db-b956-06e03134d849:76b1efd920d44d7e8e1c00627e970b14
+[NotebookApp | INFO] interrupted
+[NotebookApp | CRITICAL] Shutdown confirmed
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: 25f1fa20-ebaf-48db-b956-06e03134d849

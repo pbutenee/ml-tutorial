@@ -12,7 +12,7 @@ RUN pip3 install jupyterhub jupyter numpy scipy matplotlib sklearn pandas
 
 COPY jupyterhub_config.py /etc/jupyterhub/jupyterhub_config.py
 
-COPY release/ /home/cs/tutorial/
+COPY release/1/ /home/cs/tutorial/
 
 COPY create_users.py /tmp/create_users.py
 
@@ -22,4 +22,4 @@ COPY jupyterhub /etc/init.d/jupyterhub
 
 RUN update-rc.d jupyterhub defaults
 
-CMD ["jupyterhub"]
+CMD ["jupyterhub", "-f", "/etc/jupyterhub/jupyterhub_config.py"]

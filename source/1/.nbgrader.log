@@ -67,3 +67,45 @@
 [NotebookApp | CRITICAL] Shutdown confirmed
 [NotebookApp | INFO] Shutting down 1 kernel
 [NotebookApp | INFO] Kernel shutdown: 25f1fa20-ebaf-48db-b956-06e03134d849
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /Users/pbutenee/Desktop/ml-tutorial/source/1
+[NotebookApp | INFO] 0 active kernels
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8888/?token=616cfe2fc4e19ae4bb95c6e193eb893c71299c54a3a80e22
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=616cfe2fc4e19ae4bb95c6e193eb893c71299c54a3a80e22&token=616cfe2fc4e19ae4bb95c6e193eb893c71299c54a3a80e22
+[NotebookApp | INFO] Accepting one-time-token-authenticated connection from ::1
+[NotebookApp | WARNING] Notebook anomaly_detection.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 21f44c25-3ca8-42ac-82c8-c71db242f232
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 21f44c25-3ca8-42ac-82c8-c71db242f232
+[NotebookApp | INFO] Starting buffering for 21f44c25-3ca8-42ac-82c8-c71db242f232:1e07224a5c3b4f9285eca6e236f7e577
+[NotebookApp | INFO] interrupted
+[NotebookApp | CRITICAL] Shutdown confirmed
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: 21f44c25-3ca8-42ac-82c8-c71db242f232
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /Users/pbutenee/Desktop/ml-tutorial/source/1
+[NotebookApp | INFO] 0 active kernels
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8888/?token=4cc3f6c1043961ffbb5542e28209e6bc67cc2fe81118bdd7
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=4cc3f6c1043961ffbb5542e28209e6bc67cc2fe81118bdd7&token=4cc3f6c1043961ffbb5542e28209e6bc67cc2fe81118bdd7
+[NotebookApp | INFO] Accepting one-time-token-authenticated connection from ::1
+[NotebookApp | WARNING] Notebook index.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: b41951ba-2c69-410c-8b8e-837aa26840c7
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel b41951ba-2c69-410c-8b8e-837aa26840c7
+[NotebookApp | INFO] Saving file at /index.ipynb
+[NotebookApp | INFO] interrupted
+[NotebookApp | CRITICAL] Shutdown confirmed
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: b41951ba-2c69-410c-8b8e-837aa26840c7

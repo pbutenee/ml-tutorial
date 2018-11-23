@@ -22,4 +22,8 @@ If you want to host this workshop you can use the included Dockerfile to build a
 
 ```docker run -p 8000:8000 ml-tutorial```
 
-This will create a couple of users with as login `user00X` and password `password`.
+Surf to `http://localhost:8000` to start the tutorial and log in with `user001` and password `password`.
+
+The docker image is also available on docker hub so running it might also work with:
+```docker run -p 8000:8000 pbutenee/ml-tutorial```
+without the need for downloading the code or building the container.

@@ -16,7 +16,7 @@ COPY release/1/ /home/cs/tutorial/
 
 COPY create_users.py /tmp/create_users.py
 
-RUN python /tmp/create_users.py 1000 password
+RUN python /tmp/create_users.py 500 password
 
 COPY jupyterhub /etc/init.d/jupyterhub
 

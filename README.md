@@ -16,14 +16,14 @@ For convenience we advice to use the [Anaconda Python Package](https://www.conti
 
 ## JupyterHub (BETA)
 
-If you want to host this workshop you can use the included Dockerfile to build a JupyterHub wich you can build and launch it with the following commands:
+If you want to host this workshop you can use the included Dockerfile to build a JupyterHub which you can build and launch with the following commands:
 
 ```docker build . -t ml-tutorial```
 
-```docker run -p 8000:8000 ml-tutorial```
+```docker run -p 8000:80 ml-tutorial```
 
 Surf to `http://localhost:8000` to start the tutorial and log in with `user001` and password `password`.
 
 The docker image is also available on docker hub so running it might also work with:
-```docker run -p 8000:8000 pbutenee/ml-tutorial```
+```docker run -p 8000:80 pbutenee/ml-tutorial```
 without the need for downloading the code or building the container.

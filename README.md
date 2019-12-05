@@ -7,6 +7,7 @@
 
         pip install -r requirements.txt
 
+
 - Open the `release/1/index.ipynb` Jupyter notebook with the following command:
 
         jupyter notebook release/1/index.ipynb

@@ -11,7 +11,7 @@ You will need to have the following Python 3 packages installed:
 * pandas
 * jupyter notebook
 
-For convenience we advice to use the [Anaconda Python Package](https://www.continuum.io/downloads)
+For convenience we advise to use the [Anaconda Python Package](https://www.continuum.io/downloads)
 
 
 ## JupyterHub (BETA)

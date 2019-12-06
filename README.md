@@ -1,22 +1,23 @@
 # Machine Learning Tutorial
 [![Python 3.6+](https://img.shields.io/badge/python-3.6+-blue.svg)](https://www.python.org/downloads/release/python-360/)
 
-### Taking the tutorial locally
+## Installation
 
-- Create a [virtual environment](https://docs.python.org/3/library/venv.html) in the project folder and install the required packages:
+Clone the repo and create a [virtual environment](https://docs.python.org/3/library/venv.html) in the root folder. After activating the environment, install the required packages:
 
         pip install -r requirements.txt
 
+## Taking the tutorial
 
-- Open the `release/1/index.ipynb` Jupyter notebook with the following command:
+Open the `release/1/index.ipynb` Jupyter notebook with the following command:
 
         jupyter notebook release/1/index.ipynb
 
-### Updating the tutorial
+## Updating the tutorial
 
 Change the notebooks in the `source/` folder and, after saving your changes, run:
 
-        sh generate_assignments.sh
+        sh generate_assignment.sh
 
 This will overwrite the existing `release/` directory.
 

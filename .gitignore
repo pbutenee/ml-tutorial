@@ -4,3 +4,4 @@ gradebook.db
 .nbgrader.log
 .ipynb_checkpoints
 venv-ml/
+python3/

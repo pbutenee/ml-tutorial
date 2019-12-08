@@ -15,7 +15,10 @@ Open the `release/1/index.ipynb` Jupyter notebook with the following command:
 
 ## Updating the tutorial
 
-Change the notebooks in the `source/` folder and, after saving your changes, run:
+Activate the nbgrader notebook extension as documented [here](https://nbgrader.readthedocs.io/en/stable/user_guide/installation.html#installing-and-activating-extensions).
+Change the notebooks in the `source/` folder, any new cells where students have to write code should be set to `Autograded answer` as documented [here](https://nbgrader.readthedocs.io/en/stable/user_guide/creating_and_grading_assignments.html#autograded-answer-cells).
+
+After saving your changes, run:
 
         sh generate_assignment.sh
 

@@ -5,3 +5,4 @@ gradebook.db
 .ipynb_checkpoints
 venv-ml/
 python3/
+.DS_Store

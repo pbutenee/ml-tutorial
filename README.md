@@ -3,11 +3,21 @@
 
 ## Installation
 
+#### Option 1: Anaconda (new Python users)
+
+Download the Python 3 [Anaconda installer](https://www.anaconda.com/distribution/#download-section) for your OS and open the Anaconda prompt.
+
+Clone this repo using git or download it manually. Then, using the Anaconda prompt, cd into the ml-tutorial directory and move on to [Starting the tutorial](#Starting the tutorial).
+ 
+
+        
+#### Option 2: pip & virtual environment (advanced users)
+
 Clone the repo and create a [virtual environment](https://docs.python.org/3/library/venv.html) in the root folder. After activating the environment, install the required packages:
 
         pip install -r requirements.txt
 
-## Taking the tutorial
+## Starting the tutorial
 
 Open the `release/1/index.ipynb` Jupyter notebook with the following command:
 

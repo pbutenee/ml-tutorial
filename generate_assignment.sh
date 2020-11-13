@@ -1,3 +1,3 @@
 #!/bin/bash
 set -e
-nbgrader assign 1 --force
+nbgrader generate_assignment 1 --force

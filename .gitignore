@@ -1,4 +1,8 @@
 gradebook.db
+.idea/
+.mypy_cache/
 .nbgrader.log
 .ipynb_checkpoints
-source/1/.ipynb_checkpoints
+venv-ml/
+python3/
+.DS_Store

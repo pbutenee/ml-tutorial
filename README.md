@@ -57,6 +57,6 @@ If you want to host this workshop you can use the included Dockerfile to build a
 
 Surf to `http://localhost:8000` to start the tutorial and log in with `user001` and password `password`.
 
-The docker image is also available on docker hub so running it might also work with:
-```docker run -p 8000:80 pbutenee/ml-tutorial```
-without the need for downloading the code or building the container.
+The docker image is also available on docker hub so running it on a server should work with:
+```docker run -d -p 80:80 pbutenee/ml-tutorial```
+without the need for downloading the code or building the container. Set the port to 8000 instead of 80 to test it out on local host.

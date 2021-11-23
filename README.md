@@ -60,3 +60,4 @@ Surf to `http://localhost:8000` to start the tutorial and log in with `user001` 
 The docker image is also available on docker hub so running it on a server should work with:
 ```docker run -d -p 80:80 pbutenee/ml-tutorial```
 without the need for downloading the code or building the container. Set the port to 8000 instead of 80 to test it out on local host.
+NOTE: ONLY AN OLD VERSION OF THIS CONTAINER IS AVAILABLE ON DOCKER HUB SINCE IT IS NO LONGER FREE

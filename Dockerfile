@@ -1,9 +1,11 @@
-FROM ubuntu:18.04
+FROM ubuntu:20.04
 LABEL maintainer="Pieter Buteneers<pieter.buteneers@gmail.com>"
 
 RUN apt-get -y update && \
     apt-get -y upgrade && \
-    apt-get -y install npm nodejs python3-pip git python-dev
+    apt-get -y install nodejs
+# Separate command to avoid location question for nodejs
+RUN apt-get -y install python3-pip python-dev npm 
 
 #RUN npm name=configurable-http-proxy global=yes
 RUN npm install -g configurable-http-proxy

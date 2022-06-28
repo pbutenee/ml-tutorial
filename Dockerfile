@@ -10,7 +10,7 @@ RUN apt-get -y install python3-pip python-dev npm
 #RUN npm name=configurable-http-proxy global=yes
 RUN npm install -g configurable-http-proxy
 
-RUN pip3 install jupyterhub jupyter numpy scipy matplotlib sklearn pandas umap umap-learn seaborn
+RUN pip3 install jupyterhub jupyter numpy==1.22 scipy matplotlib sklearn pandas umap umap-learn seaborn
 
 COPY jupyterhub_config.py /etc/jupyterhub/jupyterhub_config.py
 
